@@ -23,9 +23,11 @@ If you are allowed to **add or modify resources**, please follow these guideline
 1. **Do not post solutions for graded material** — IITM strictly prohibits sharing graded solutions.  
 2. **Keep files organized** — ensure that files are placed in the correct folders with clear, descriptive names.  
 3. **Do not delete resources** — only add or modify files in your assigned folders.  
-4. **Update `links.md`** in the respective folder whenever you add new resources. Try to **follow the sample formatting** in `links.md`.  
-5. **Handling images**:  
+4. **Update `links.md`** in the respective folder whenever you add new resources. Try to **follow the sample formatting** in `links.md`.
+5. **git commit:** Please try to commit changes to only one course in single commit.
+6. **Handling images**:  
    - For multiple images, either create a dedicated folder or combine them into a PDF before uploading.  
+   
 
 > ⚠️ These are not exhaustive; always aim to maintain clarity and organization.
 
